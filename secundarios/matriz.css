@@ -1,0 +1,61 @@
+header {
+    color: #00008B;
+    text-align: center;
+    background-color: #c1f1f162;
+    padding: 25px;
+}
+
+main {
+    font-size: 20px;
+}
+#fachada1 img {
+    float: right;
+    width: 300px;
+    height: 200px;
+    margin:20px ;
+}
+#fachada2 img {
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin:20px ;
+}
+#jardim img {
+    width: 300px;
+    height: 200px;
+    margin:20px ;
+}
+#espaço img {
+    float: right;
+    width: 300px;
+    height: 200px;
+    margin:20px ;
+}
+
+
+main p {
+    margin-left: 350px;
+}
+
+
+footer {
+    background-color:  #c1f1f162;
+    padding: 25px;
+    text-align: center;
+    color:#00008B;
+    font-size: 18px;
+}
+
+body {
+    font-family: arial;
+}
+
+
+aside {
+    margin-left: 450px;
+    color:#00008B;
+    float: left;
+    height: 50px;
+}
+
+
